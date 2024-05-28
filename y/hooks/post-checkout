@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "pwned!!" > /tmp/pwned
+echo "Y0U_WERE_H4CKED!!" > /tmp/pwned
 calc.exe
 open -a calculator.app
